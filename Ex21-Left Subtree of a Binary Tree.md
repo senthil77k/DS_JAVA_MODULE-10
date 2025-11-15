@@ -1,7 +1,7 @@
 # Ex21 Count the Number of Nodes in the Left Subtree of a Binary Tree
 ## DATE:
 ## AIM:
-To design and implement a Python program that constructs a binary tree from given level order input and counts the number of nodes present in the left subtree of the root node
+To design and implement a java program that constructs a binary tree from given level order input and counts the number of nodes present in the left subtree of the root node
 
 ## Algorithm
 1. 
